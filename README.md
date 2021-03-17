@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning f.all
 - 💞️ I’m looking to collaborate on provdiing banking services
 - 📫 How to reach me is eeeasy abell AT chartered DOT org
+- anyone who says "this muppet has no idea...", yep, but i've been forced here by other software 
 
 <!---
 abelljms/abelljms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
