@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abelljms
-- 👀 I’m interested in provdiing banking services, and accountancy services
+- 👀 I’m interested in providing banking services, and accountancy services
 - 🌱 I’m currently learning f.all
 - 💞️ I’m looking to collaborate on provdiing banking services
 - 📫 How to reach me is eeeasy abell AT chartered DOT org
